@@ -5,7 +5,7 @@ description: "Compact CoreXY Flying Gantry Printer"
 created_at: "6/16/25"
 ---
 
-Total time spent: 22 hours
+Total time spent: 26 hours
 
 # The Cube 6/13/2025 Day 1
 ## Brainstorming
@@ -43,10 +43,20 @@ I started off the day by creating the Github repository, and setting up the jour
 
 Time spent: 2 hours
 
-## Back to CAD
+## Progress on Electronics
 
 After taking a break, I started researching the electronics I was using to ensure compatibility and compactness within the build volume. Initial my plan was to use a SKR v1.4 with a standard sized RaspberryPi. After some test fitting in CAD, I knew this would not work. I also knew that I did not want to add a separate 5v PSU for the RPi as that would take up more space than I even had, so I looked into BigTreeTech's BTT Pi, a Pi like SBC that is design for 3D printers so it can take in 24v directly. Since I was test fitting and still discovered that this would not fit, as it was still the same size as an RPi, I looked to the Pi Zero 2 W as a more compact alternative. I knew that it would have less standard ports however that was made up for in it's compactness. Using the RPi Zero 2 W, I was able to save significant space, allowing me to have room for wiring and to keep the constraint of 250mm cubed. Shown below is the current progress on electronics fitment:
 
 <img width="306" alt="Electronics Config 1" src="https://github.com/user-attachments/assets/82c448f2-e7d9-419f-8042-26ed54beacd0" />
 
 Time Spent: 3 hours
+
+## Gantry Update
+
+I ended up cadding the XY joints for the gantry, which ended up being troublesome as I needed to ensure that the front gantry idler would have enough clearance with the joints. I also swapped from a front mounted rail to a top mounted rail to save space, as otherwise I would have needed to cram the front idler even more. Since the belt routing is similar to CloakedWayne's Monolith Gantry, I was able to find a nice and easy to modify [carriage](https://www.printables.com/model/1021158-archetype-carriage-for-monolith-with-gustav-railwa) that I could use as the base of my toolhead. This allowed me to swap it to a top rail, as I knew that the Voron V0 has a printed carriage that prints in a similar fashion to this so I knew that it would be rigid enough. 
+
+<img width="510" alt="Toolhead Carriage" src="https://github.com/user-attachments/assets/2f4405ab-5de0-4ceb-92e1-a187c3a06568" />
+
+<img width="503" alt="XY joint" src="https://github.com/user-attachments/assets/4dafa517-f546-4326-a622-3f3d24e659ca" />
+
+Time spent: 4 hours
