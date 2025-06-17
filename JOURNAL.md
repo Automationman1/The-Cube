@@ -5,7 +5,7 @@ description: "Compact CoreXY Flying Gantry Printer"
 created_at: "6/16/25"
 ---
 
-Total time spent: 17 hours
+Total time spent: 22 hours
 
 # The Cube 6/13/2025 Day 1
 ## Brainstorming
