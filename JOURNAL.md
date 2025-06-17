@@ -38,7 +38,15 @@ Today I started designing the rear motor mounts for the gantry, as I knew that i
 Time spent: 5 hours
 
 # The Cube 6/16/2025 Day 3
-
+## Starting the Repo
 I started off the day by creating the Github repository, and setting up the journal.
 
 Time spent: 2 hours
+
+## Back to CAD
+
+After taking a break, I started researching the electronics I was using to ensure compatibility and compactness within the build volume. Initial my plan was to use a SKR v1.4 with a standard sized RaspberryPi. After some test fitting in CAD, I knew this would not work. I also knew that I did not want to add a separate 5v PSU for the RPi as that would take up more space than I even had, so I looked into BigTreeTech's BTT Pi, a Pi like SBC that is design for 3D printers so it can take in 24v directly. Since I was test fitting and still discovered that this would not fit, as it was still the same size as an RPi, I looked to the Pi Zero 2 W as a more compact alternative. I knew that it would have less standard ports however that was made up for in it's compactness. Using the RPi Zero 2 W, I was able to save significant space, allowing me to have room for wiring and to keep the constraint of 250mm cubed. Shown below is the current progress on electronics fitment:
+
+<img width="306" alt="Electronics Config 1" src="https://github.com/user-attachments/assets/82c448f2-e7d9-419f-8042-26ed54beacd0" />
+
+Time Spent: 3 hours
