@@ -64,7 +64,7 @@ Time spent: 4 hours
 # The Cube 6/24/2025 Day 4
 ## Update
 
-It has been 8 days since the last progress update, however in that time I ended up designing a whole macropad, Halpad, and moving.
+It has been 8 days since the last progress update, however in that time I ended up designing a whole macropad, Halpad, as a break from this project.
 
 ## Progress on Gantry
 
