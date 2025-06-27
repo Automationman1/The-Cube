@@ -74,5 +74,7 @@ I finished cadding the XY joints, as well as modifying the front joints to allow
 
 <img width="115" alt="Screenshot 2025-06-25 at 11 21 48 PM" src="https://github.com/user-attachments/assets/a5653812-c8ea-4f15-b40c-c5789aa8f3d8" />
 
+<img width="132" alt="Screenshot 2025-06-25 at 11 21 41 PM" src="https://github.com/user-attachments/assets/b9de05f3-e6d5-494c-91f9-d6a9ff440531" />
+
 Time spent: 3 hours
 
