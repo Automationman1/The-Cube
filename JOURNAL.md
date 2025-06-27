@@ -60,3 +60,19 @@ I ended up cadding the XY joints for the gantry, which ended up being troublesom
 <img width="503" alt="XY joint" src="https://github.com/user-attachments/assets/4dafa517-f546-4326-a622-3f3d24e659ca" />
 
 Time spent: 4 hours
+
+# The Cube 6/24/2025 Day 4
+## Update
+
+It has been 8 days since the last progress update, however in that time I ended up designing a whole macropad, Halpad, and moving.
+
+## Progress on Gantry
+
+I finished cadding the XY joints, as well as modifying the front joints to allow for clearance and enable adding in the dowel pin for the front idler, using a mechanism which imitates that found in guns. This was to allow for minimal Z height as well as allowing for maximum travel in the Y axis.
+
+<img width="279" alt="Screenshot 2025-06-25 at 11 21 16 PM" src="https://github.com/user-attachments/assets/0f77bfac-1e0e-409a-9a5c-ed6b4690ce62" />
+
+<img width="115" alt="Screenshot 2025-06-25 at 11 21 48 PM" src="https://github.com/user-attachments/assets/a5653812-c8ea-4f15-b40c-c5789aa8f3d8" />
+
+
+
