@@ -5,7 +5,7 @@ description: "Compact CoreXY Flying Gantry Printer"
 created_at: "6/16/25"
 ---
 
-Total time spent: 26 hours
+Total time spent: 29 hours
 
 # The Cube 6/13/2025 Day 1
 ## Brainstorming
@@ -74,5 +74,5 @@ I finished cadding the XY joints, as well as modifying the front joints to allow
 
 <img width="115" alt="Screenshot 2025-06-25 at 11 21 48 PM" src="https://github.com/user-attachments/assets/a5653812-c8ea-4f15-b40c-c5789aa8f3d8" />
 
-
+Time spent: 3 hours
 
