@@ -78,3 +78,9 @@ I finished cadding the XY joints, as well as modifying the front joints to allow
 
 Time spent: 3 hours
 
+# The Cube 6/27/2025 Day 5
+## Front Z motor mounts
+
+These were designed to be as simple as possible, however here a strong focus on keeping the 250mm^3 footprint. This ended up making it significantly harder for mounting the motors.
+
+![Screenshot 2025-06-29 143322](https://github.com/user-attachments/assets/58603fe7-3572-4d71-9bc5-1b1d2022ed69)
