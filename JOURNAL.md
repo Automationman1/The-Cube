@@ -84,3 +84,19 @@ Time spent: 3 hours
 These were designed to be as simple as possible, however here a strong focus on keeping the 250mm^3 footprint. This ended up making it significantly harder for mounting the motors.
 
 ![Screenshot 2025-06-29 143322](https://github.com/user-attachments/assets/58603fe7-3572-4d71-9bc5-1b1d2022ed69)
+
+# The Cube 6/30/2025 Day 6
+## Rear Z done
+
+I ended up designing the motor and idler mounts to be as simple to be possible, and since the tensioner was moved to the gantry for the rear, the mount was simpler:
+
+![Screenshot 2025-07-02 200048](https://github.com/user-attachments/assets/06724413-5ac6-4ce9-beb4-cd069b7a8cd0)
+
+![Screenshot 2025-07-02 200100](https://github.com/user-attachments/assets/b7acaa01-a0d8-4c33-9405-547ae8e6a409)
+
+I also ended up cadding the rear tensioner as well as the cable chain mounting.
+
+![Screenshot 2025-07-02 200256](https://github.com/user-attachments/assets/e4e19529-697d-4e28-8753-f7c1bafb918a)
+
+![Screenshot 2025-07-02 200316](https://github.com/user-attachments/assets/f3656da3-51f0-471f-9447-00dad322bc6a)
+
