@@ -5,7 +5,7 @@ description: "Compact CoreXY Flying Gantry Printer"
 created_at: "6/16/25"
 ---
 
-Total time spent: 29 hours
+Total time spent: 45 hours
 
 # The Cube 6/13/2025 Day 1
 ## Brainstorming
@@ -85,6 +85,8 @@ These were designed to be as simple as possible, however here a strong focus on 
 
 ![Screenshot 2025-06-29 143322](https://github.com/user-attachments/assets/58603fe7-3572-4d71-9bc5-1b1d2022ed69)
 
+Time spent: 3 hours
+
 # The Cube 6/30/2025 Day 6
 ## Rear Z done
 
@@ -100,3 +102,37 @@ I also ended up cadding the rear tensioner as well as the cable chain mounting.
 
 ![Screenshot 2025-07-02 200316](https://github.com/user-attachments/assets/f3656da3-51f0-471f-9447-00dad322bc6a)
 
+Time spent: 4 hours
+
+# The Cube 7/2/2025 Day 7
+## Toolhead Finished
+
+I made a quick mockup of the toolhead after doing research for a couple of hours on which hotend to use, and I ended up settling on a Bambu clone hotend just because I already had a CAD model for the Bambu hotend and the config would allow me to retain some compactness. Adding the Sherpa Mini was easy as I already had experience working with Sherpa Minis previously and the mounting is really easy.
+
+![Screenshot 2025-07-04 204900](https://github.com/user-attachments/assets/7ecad41f-9052-42ae-8cce-a67147a3929f)
+
+Time spent: 4 hours
+
+# The Cube 7/4/2025 Day 8 - Happy Independence Day!
+## Working on Electronics Mounting
+
+Initially when I begun this I was thinking that I would use 4 feet for this project due to stability, however I ended up going for 3 as that would allow me to not have to worry about rigidity in the rear corners, which would have a 115mm distance of printed part between the leg and the extrusion, which I believed would sacrifice rigidity given my space constraints. I ended up settling for Fysetc's Voron 2.4 feet as they are m5 threaded so they can thread right into the extrusions. Mounting the rest was rather easy, but I did have some issues with positioning the RPi due to the original thought of 4 legs, but luckily this solved that issue.
+
+![Screenshot 2025-07-07 154424](https://github.com/user-attachments/assets/b6efcbeb-9cc3-43ae-b9a8-89cc3040803b)
+
+![Screenshot 2025-07-07 154431](https://github.com/user-attachments/assets/f919c25a-c1ae-4e36-8ec7-ac62437bac76)
+
+Time spent: 4 hours
+
+# The Cube 7/7/2025 Day 9
+## Working on Bed Mounting
+
+Luckily, the rear bed screwaligns perfectly with the extrusion, allowing me to take advantage of that as a mounting point. However, for the front 2, I needed to extend out te electronics mounting a bit to allow for the plate to also connect to the bed in a rigid manner.
+
+Time spent: 1 hour
+
+![Screenshot 2025-07-07 155128](https://github.com/user-attachments/assets/3aa99e8b-5d2c-4a03-898e-f237980a69b7)
+
+![Screenshot 2025-07-07 155133](https://github.com/user-attachments/assets/2bf7579b-d13f-42d3-9e6d-7c66bc969d3e)
+
+Time spent: 1 hour
